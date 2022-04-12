@@ -15,7 +15,7 @@ public class TEMA2 : MonoBehaviour
 
         if (monto < 1000)
         {
-            Debug.Log("El monot tiene que ser mayor a 1000");
+            Debug.Log("El monto tiene que ser mayor a 1000");
         } else if (monto > 1000)
         {
             switch (pasaje)
